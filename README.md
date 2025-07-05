@@ -20,3 +20,9 @@ To design a compact microcontroller-based alert system for monitoring water leve
 - The LCD displays the water level in real-time.
 
 ## 📂 Folder Structure
+- /code → Arduino .ino file
+- /pcb → Gerber files for PCB fabrication
+- /tinkerCAD → Circuit design and screenshot
+- /report → Detailed project report in PDF
+- /video → Demo video (recorded or simulated)
+
